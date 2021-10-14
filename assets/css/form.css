@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family:monospace;
+}
+
+form{
+    text-align: center;
+    font-size: 25px;
+}
+
+.field{
+    padding: 15px;
+}
+
+label{
+    display: block;
+    font-size: 30px; 
+}
+
+input, textarea{
+    font-size: 30px;
+    background: lightblue;
+    border-radius: 10px;
+    border: none;
+}
+
+
+
+
+
+
